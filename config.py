@@ -1,0 +1,2 @@
+Key_EdenAI = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZGU4MDBmYzgtZTliMi00ZGZhLTg5NjgtNGRkOTk5NTMwNmUyIiwidHlwZSI6ImFwaV90b2tlbiJ9.am0SM5PKWTqa568DjQKVZgfafagruMxtnmwCLwhEmYc'
+Key_OpenAi = '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'
